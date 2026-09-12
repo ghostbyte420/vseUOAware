@@ -8,14 +8,16 @@
 With this tool you can ask questions like *"find the item ID for sandals"*, *"render gump 0"*, or *"show me an ASCII map of facet 1"* right in chat, and get 
 real answers backed by actual decoded client data instead of guesses.</br>
 
-Working with legacy UO client formats (`.mul`, `.uop`) normally means digging through outdated tools, forum posts, or reverse-engineered reference source just </br>
+Working with legacy UO client formats (`.mul`, `.uop`) normally means digging through outdated tools, forum posts, or reverse-engineered reference source just
 to answer a simple question like "what's the ID for this item?" or "what does gump 12 look like?". vseUOAware puts that knowledge directly in your AI coding assistant's hands:
 
-- **No more guessing IDs.** Ask in plain English and get exact tile/item/gump/sound/body IDs pulled straight from the real client files.
-- **Visual, not just textual.** Art, gumps, hues, lights, textures, fonts, and full creature animations render to real PNGs you can open immediately — critical for anything binary/graphical that plain text can't convey.
-- **One tool, every legacy format.** Classic `.idx`/`.mul` pairs and the newer hash-indexed `.uop` archives are both fully supported side by side, so you don't need separate tooling depending on client era.
-- **Safe by design.** Everything is strictly read-only against your original client files — nothing here can corrupt your source assets, making it safe to explore, script against, and build tooling/content on top of.
+- **No more guessing IDs.** Ask in plain English and get exact tile/item/gump/sound/body IDs pulled straight from the real client files.</br></br>
+- **Visual, not just textual.** Art, gumps, hues, lights, textures, fonts, and full creature animations render to real PNGs you can open immediately — critical for anything binary/graphical that plain text can't convey.</br></br>
+- **One tool, every legacy format.** Classic `.idx`/`.mul` pairs and the newer hash-indexed `.uop` archives are both fully supported side by side, so you don't need separate tooling depending on client era.</br></br>
+- **Safe by design.** Everything is strictly read-only against your original client files — nothing here can corrupt your source assets, making it safe to explore, script against, and build tooling/content on top of.</br></br>
 - **Built for real development work**, not just browsing — whether you're scaffolding a new item, verifying an animation, auditing tiledata flags, or laying groundwork for larger systems (including next-gen asset pipelines), the data your agent needs is one question away.
+
+---
 
 ## Available tools
 
