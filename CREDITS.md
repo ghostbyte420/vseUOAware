@@ -2,6 +2,7 @@
 ---
 ```Developer(s)```
 - ghostbyte420
+- KitaByte
 
 ```Collaborator(s)```
 - none
