@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "vseUOAware": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "D:\\vseUOAware\\vseUOAware\\vseUOAware.csproj"
+      ]
+    }
+  }
+}
