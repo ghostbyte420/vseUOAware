@@ -1,9 +1,6 @@
-### 🤝 MapCreator Credits:
+### 🤝 vseUOAware Credits:
 ---
 ```Developer(s)```
-- dknight
-- Praxiiz
-- Voxpire
 - ghostbyte420
 
 ```Collaborator(s)```
