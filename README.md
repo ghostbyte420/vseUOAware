@@ -66,8 +66,6 @@ your setup is similar to the following screenshots:
 
 ## Cross-Platform?
 
-This project was created from the [UltimaMCP](https://github.com/Kita72/UltimaMCP) project, which demonstrates how you can easily create an MCP server using C#.</br>
-
 The MCP server is built as a self-contained application and does not require the .NET runtime to be installed on the target machine.
 However, since it is self-contained, it must be built for each target platform separately.
 By default, the template is configured to build for:
