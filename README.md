@@ -1,5 +1,5 @@
 ## vseUOAware </br>
-```A MCP Agent That Allows Visual Studio Copilot to Read UO Client Files```</br>
+```An MCP Agent That Allows Visual Studio Copilot to Read UO Client Files```</br>
 
 ---
 
